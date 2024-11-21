@@ -9,3 +9,5 @@ devHubUsername: cristiaan3003@gmail.com.hardis.devhub
 poolConfig:
   maxScratchOrgsNumber: 5
   storageService: salesforce
+deploymentPlan:
+  packages: []
